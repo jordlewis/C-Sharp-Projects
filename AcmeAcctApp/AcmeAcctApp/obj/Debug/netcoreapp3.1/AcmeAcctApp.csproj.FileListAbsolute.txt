@@ -1,0 +1,13 @@
+E:\GitHub\C-Sharp-Projects\AcmeAcctApp\AcmeAcctApp\bin\Debug\netcoreapp3.1\AcmeAcctApp.exe
+E:\GitHub\C-Sharp-Projects\AcmeAcctApp\AcmeAcctApp\bin\Debug\netcoreapp3.1\AcmeAcctApp.deps.json
+E:\GitHub\C-Sharp-Projects\AcmeAcctApp\AcmeAcctApp\bin\Debug\netcoreapp3.1\AcmeAcctApp.runtimeconfig.json
+E:\GitHub\C-Sharp-Projects\AcmeAcctApp\AcmeAcctApp\bin\Debug\netcoreapp3.1\AcmeAcctApp.runtimeconfig.dev.json
+E:\GitHub\C-Sharp-Projects\AcmeAcctApp\AcmeAcctApp\bin\Debug\netcoreapp3.1\AcmeAcctApp.dll
+E:\GitHub\C-Sharp-Projects\AcmeAcctApp\AcmeAcctApp\bin\Debug\netcoreapp3.1\AcmeAcctApp.pdb
+E:\GitHub\C-Sharp-Projects\AcmeAcctApp\AcmeAcctApp\obj\Debug\netcoreapp3.1\AcmeAcctApp.csproj.AssemblyReference.cache
+E:\GitHub\C-Sharp-Projects\AcmeAcctApp\AcmeAcctApp\obj\Debug\netcoreapp3.1\AcmeAcctApp.AssemblyInfoInputs.cache
+E:\GitHub\C-Sharp-Projects\AcmeAcctApp\AcmeAcctApp\obj\Debug\netcoreapp3.1\AcmeAcctApp.AssemblyInfo.cs
+E:\GitHub\C-Sharp-Projects\AcmeAcctApp\AcmeAcctApp\obj\Debug\netcoreapp3.1\AcmeAcctApp.csproj.CoreCompileInputs.cache
+E:\GitHub\C-Sharp-Projects\AcmeAcctApp\AcmeAcctApp\obj\Debug\netcoreapp3.1\AcmeAcctApp.dll
+E:\GitHub\C-Sharp-Projects\AcmeAcctApp\AcmeAcctApp\obj\Debug\netcoreapp3.1\AcmeAcctApp.pdb
+E:\GitHub\C-Sharp-Projects\AcmeAcctApp\AcmeAcctApp\obj\Debug\netcoreapp3.1\AcmeAcctApp.genruntimeconfig.cache
