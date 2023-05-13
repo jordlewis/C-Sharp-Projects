@@ -1,0 +1,13 @@
+E:\GitHub\C-Sharp-Projects\StudentDailyReport\StudentDailyReport\bin\Debug\netcoreapp3.1\StudentDailyReport.exe
+E:\GitHub\C-Sharp-Projects\StudentDailyReport\StudentDailyReport\bin\Debug\netcoreapp3.1\StudentDailyReport.deps.json
+E:\GitHub\C-Sharp-Projects\StudentDailyReport\StudentDailyReport\bin\Debug\netcoreapp3.1\StudentDailyReport.runtimeconfig.json
+E:\GitHub\C-Sharp-Projects\StudentDailyReport\StudentDailyReport\bin\Debug\netcoreapp3.1\StudentDailyReport.runtimeconfig.dev.json
+E:\GitHub\C-Sharp-Projects\StudentDailyReport\StudentDailyReport\bin\Debug\netcoreapp3.1\StudentDailyReport.dll
+E:\GitHub\C-Sharp-Projects\StudentDailyReport\StudentDailyReport\bin\Debug\netcoreapp3.1\StudentDailyReport.pdb
+E:\GitHub\C-Sharp-Projects\StudentDailyReport\StudentDailyReport\obj\Debug\netcoreapp3.1\StudentDailyReport.csproj.AssemblyReference.cache
+E:\GitHub\C-Sharp-Projects\StudentDailyReport\StudentDailyReport\obj\Debug\netcoreapp3.1\StudentDailyReport.AssemblyInfoInputs.cache
+E:\GitHub\C-Sharp-Projects\StudentDailyReport\StudentDailyReport\obj\Debug\netcoreapp3.1\StudentDailyReport.AssemblyInfo.cs
+E:\GitHub\C-Sharp-Projects\StudentDailyReport\StudentDailyReport\obj\Debug\netcoreapp3.1\StudentDailyReport.csproj.CoreCompileInputs.cache
+E:\GitHub\C-Sharp-Projects\StudentDailyReport\StudentDailyReport\obj\Debug\netcoreapp3.1\StudentDailyReport.dll
+E:\GitHub\C-Sharp-Projects\StudentDailyReport\StudentDailyReport\obj\Debug\netcoreapp3.1\StudentDailyReport.pdb
+E:\GitHub\C-Sharp-Projects\StudentDailyReport\StudentDailyReport\obj\Debug\netcoreapp3.1\StudentDailyReport.genruntimeconfig.cache
