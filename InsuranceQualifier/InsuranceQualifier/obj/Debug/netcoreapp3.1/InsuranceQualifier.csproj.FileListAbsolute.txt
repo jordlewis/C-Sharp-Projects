@@ -1,0 +1,13 @@
+C:\Users\jordy\source\repos\InsuranceQualifier\InsuranceQualifier\bin\Debug\netcoreapp3.1\InsuranceQualifier.exe
+C:\Users\jordy\source\repos\InsuranceQualifier\InsuranceQualifier\bin\Debug\netcoreapp3.1\InsuranceQualifier.deps.json
+C:\Users\jordy\source\repos\InsuranceQualifier\InsuranceQualifier\bin\Debug\netcoreapp3.1\InsuranceQualifier.runtimeconfig.json
+C:\Users\jordy\source\repos\InsuranceQualifier\InsuranceQualifier\bin\Debug\netcoreapp3.1\InsuranceQualifier.runtimeconfig.dev.json
+C:\Users\jordy\source\repos\InsuranceQualifier\InsuranceQualifier\bin\Debug\netcoreapp3.1\InsuranceQualifier.dll
+C:\Users\jordy\source\repos\InsuranceQualifier\InsuranceQualifier\bin\Debug\netcoreapp3.1\InsuranceQualifier.pdb
+C:\Users\jordy\source\repos\InsuranceQualifier\InsuranceQualifier\obj\Debug\netcoreapp3.1\InsuranceQualifier.csproj.AssemblyReference.cache
+C:\Users\jordy\source\repos\InsuranceQualifier\InsuranceQualifier\obj\Debug\netcoreapp3.1\InsuranceQualifier.AssemblyInfoInputs.cache
+C:\Users\jordy\source\repos\InsuranceQualifier\InsuranceQualifier\obj\Debug\netcoreapp3.1\InsuranceQualifier.AssemblyInfo.cs
+C:\Users\jordy\source\repos\InsuranceQualifier\InsuranceQualifier\obj\Debug\netcoreapp3.1\InsuranceQualifier.csproj.CoreCompileInputs.cache
+C:\Users\jordy\source\repos\InsuranceQualifier\InsuranceQualifier\obj\Debug\netcoreapp3.1\InsuranceQualifier.dll
+C:\Users\jordy\source\repos\InsuranceQualifier\InsuranceQualifier\obj\Debug\netcoreapp3.1\InsuranceQualifier.pdb
+C:\Users\jordy\source\repos\InsuranceQualifier\InsuranceQualifier\obj\Debug\netcoreapp3.1\InsuranceQualifier.genruntimeconfig.cache
