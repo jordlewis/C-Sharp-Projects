@@ -1,0 +1,13 @@
+E:\GitHub\C-Sharp-Projects\StringDemo\StringDemo\bin\Debug\netcoreapp3.1\StringDemo.exe
+E:\GitHub\C-Sharp-Projects\StringDemo\StringDemo\bin\Debug\netcoreapp3.1\StringDemo.deps.json
+E:\GitHub\C-Sharp-Projects\StringDemo\StringDemo\bin\Debug\netcoreapp3.1\StringDemo.runtimeconfig.json
+E:\GitHub\C-Sharp-Projects\StringDemo\StringDemo\bin\Debug\netcoreapp3.1\StringDemo.runtimeconfig.dev.json
+E:\GitHub\C-Sharp-Projects\StringDemo\StringDemo\bin\Debug\netcoreapp3.1\StringDemo.dll
+E:\GitHub\C-Sharp-Projects\StringDemo\StringDemo\bin\Debug\netcoreapp3.1\StringDemo.pdb
+E:\GitHub\C-Sharp-Projects\StringDemo\StringDemo\obj\Debug\netcoreapp3.1\StringDemo.AssemblyInfoInputs.cache
+E:\GitHub\C-Sharp-Projects\StringDemo\StringDemo\obj\Debug\netcoreapp3.1\StringDemo.AssemblyInfo.cs
+E:\GitHub\C-Sharp-Projects\StringDemo\StringDemo\obj\Debug\netcoreapp3.1\StringDemo.csproj.CoreCompileInputs.cache
+E:\GitHub\C-Sharp-Projects\StringDemo\StringDemo\obj\Debug\netcoreapp3.1\StringDemo.dll
+E:\GitHub\C-Sharp-Projects\StringDemo\StringDemo\obj\Debug\netcoreapp3.1\StringDemo.pdb
+E:\GitHub\C-Sharp-Projects\StringDemo\StringDemo\obj\Debug\netcoreapp3.1\StringDemo.genruntimeconfig.cache
+E:\GitHub\C-Sharp-Projects\StringDemo\StringDemo\obj\Debug\netcoreapp3.1\StringDemo.csproj.AssemblyReference.cache

@@ -30,6 +30,7 @@ namespace BooleanComparison
                         userNum = Convert.ToInt32(Console.ReadLine());
                         break;
                     case 5974136:
+                        // This prints the the case 5974136 statement and provides a hint for the next user guess
                         Console.WriteLine("You guessed 5974136! That's WAY too high!");
                         Console.WriteLine("Try again!");
                         userNum = Convert.ToInt32(Console.ReadLine());
@@ -49,6 +50,7 @@ namespace BooleanComparison
                         userNum = Convert.ToInt32(Console.ReadLine());
                         break;
                     default:
+                        // This is the default response, if the user input does not macth with any of the above cases
                         Console.WriteLine("That number isn't close enough for a hint...");
                         Console.WriteLine("Try again!");
                         userNum = Convert.ToInt32(Console.ReadLine());

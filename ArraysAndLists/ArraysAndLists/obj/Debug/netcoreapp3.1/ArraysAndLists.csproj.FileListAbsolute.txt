@@ -1,0 +1,13 @@
+E:\GitHub\C-Sharp-Projects\ArraysAndLists\ArraysAndLists\bin\Debug\netcoreapp3.1\ArraysAndLists.exe
+E:\GitHub\C-Sharp-Projects\ArraysAndLists\ArraysAndLists\bin\Debug\netcoreapp3.1\ArraysAndLists.deps.json
+E:\GitHub\C-Sharp-Projects\ArraysAndLists\ArraysAndLists\bin\Debug\netcoreapp3.1\ArraysAndLists.runtimeconfig.json
+E:\GitHub\C-Sharp-Projects\ArraysAndLists\ArraysAndLists\bin\Debug\netcoreapp3.1\ArraysAndLists.runtimeconfig.dev.json
+E:\GitHub\C-Sharp-Projects\ArraysAndLists\ArraysAndLists\bin\Debug\netcoreapp3.1\ArraysAndLists.dll
+E:\GitHub\C-Sharp-Projects\ArraysAndLists\ArraysAndLists\bin\Debug\netcoreapp3.1\ArraysAndLists.pdb
+E:\GitHub\C-Sharp-Projects\ArraysAndLists\ArraysAndLists\obj\Debug\netcoreapp3.1\ArraysAndLists.csproj.AssemblyReference.cache
+E:\GitHub\C-Sharp-Projects\ArraysAndLists\ArraysAndLists\obj\Debug\netcoreapp3.1\ArraysAndLists.AssemblyInfoInputs.cache
+E:\GitHub\C-Sharp-Projects\ArraysAndLists\ArraysAndLists\obj\Debug\netcoreapp3.1\ArraysAndLists.AssemblyInfo.cs
+E:\GitHub\C-Sharp-Projects\ArraysAndLists\ArraysAndLists\obj\Debug\netcoreapp3.1\ArraysAndLists.csproj.CoreCompileInputs.cache
+E:\GitHub\C-Sharp-Projects\ArraysAndLists\ArraysAndLists\obj\Debug\netcoreapp3.1\ArraysAndLists.dll
+E:\GitHub\C-Sharp-Projects\ArraysAndLists\ArraysAndLists\obj\Debug\netcoreapp3.1\ArraysAndLists.pdb
+E:\GitHub\C-Sharp-Projects\ArraysAndLists\ArraysAndLists\obj\Debug\netcoreapp3.1\ArraysAndLists.genruntimeconfig.cache
