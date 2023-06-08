@@ -68,18 +68,25 @@ namespace Iterations
             Console.WriteLine("Enter your favorite color to see if it's listed:");
             // This assings the user input to the variable named 'userGuess'
             string userGuess = Console.ReadLine();
-            // This begins a simple if/else loop to check the user input against the list indices
-            if (colors.Contains(userGuess))
+            // This creates a boolean variable called 'gotcha' to check against user input
+            bool gotcha = false;
+            // This begins a simple for loop to check the user input against the list indices
+            for (int c = 0; c < colors.Count; c++)
             {
-                // This will print if the user input matches
-                Console.WriteLine("Nice! You entered {0}", userGuess);
+                if (colors[c].Contains(userGuess))
+                {
+                    // This will print to the console if the user input is found on the list, and provide the input index
+                    Console.WriteLine("Index of {0} is {1}", colors[c], c);
+                    // This states that if the user input is found, the variable 'gotcha' indicates that it's true/'found'
+                    gotcha = true;
+                    break;
+                }
             }
-            else
+            // This logical operator checks if the user input is found and if not 
+            if (!gotcha)
             {
-                // This will print if the user input does not match any index in the list
-                Console.WriteLine("Sorry, that color isn't on the list.");
+                Console.WriteLine("{0} is not on the list, sorry.", userGuess);
             }
-
 
             //---ASSIGNMENT PART 5---//
 
@@ -92,13 +99,13 @@ namespace Iterations
             // This creates the boolean variabel 'useGuess' and assigns it the value of 'false
             bool useGuess = false;
             // This 'for' loop iterates through the list
-            for (int i = 0; i < heroes.Count; i++)
+            for (int d = 0; d < heroes.Count; d++)
             {
                 // This checks to see if the idex is equal to what the user input
-                if (heroes[i] == userInput)
+                if (heroes[d] == userInput)
                 {
-                    // If the user input is found, this will print the input and a statement to thelist
-                    Console.WriteLine(userInput + "is on the list!");
+                    // If the user input is found, this will print the input and a statement to the console with the corresponding index
+                    Console.WriteLine(userInput + " is on the list! Found at {0}", d);
                     // This advises that the user's guess was found
                     useGuess = true;
                 }
@@ -107,7 +114,7 @@ namespace Iterations
             if (!useGuess)
             {
                 // Prints a statement advising that it was not found
-                Console.WriteLine(userInput + "is not on the list.");
+                Console.WriteLine(userInput + " is not on the list.");
             }
 
 
@@ -116,31 +123,27 @@ namespace Iterations
 
             // This creates a list named 'songs'
             List<string> songs = new List<string>() { "Diver", "Lithium", "One Headlight", "1950", "No Diggity", "Lithium", "Work Song" };
-            // This loops through each item in the list
-            foreach (string song in songs)
+            // This creates a for loop to iterate through each index
+            for (int e = 0; e < songs.Count; e++)
             {
-                // This creates an integer variable named 'count'
-                int count = 0;
-                // This is a nested foreach loop that will loop for a second time through the list
-                foreach (string s in songs)
+                // during the for loop, each item will have the boolean value of 'false' attached to it
+                bool dupe = false;
+                // This creates a 'foreach' loop to evaluate each index
+                foreach (string song in songs)
                 {
-                    // This will check if each item is equal to the items from the first 'foreach' loop
-                    if (song == s)
+                    // checks to see if the index is the same as the index in the outer 'for' loop, and if so prints the respective message    
+                    if(song == songs[e] && dupe)
                     {
-                        // If the item is equal, it will increment the variable 'count' by 1
-                        count++;
+                        Console.WriteLine("This item is a duplicate --- {0}", song);
+                        // This will end the nested loop to continue on
+                        break;
                     }
-                }
-                // This is an if/else loop that checks to see if the 's' variable is greater than 1, identifying the duplicated item
-                if (count > 1)
-                {
-                    // This prints a statement to the console next to the duplicated item
-                    Console.WriteLine(song + " is duplicated in the list.");
-                }
-                else
-                {
-                    // This prints a statement to the console next to the duplciated item
-                    Console.WriteLine(song + " is unique to the list.");
+                    else if (song == songs[e])
+                    {
+                        Console.WriteLine("This item is unique to the list --- {0}.", song);
+                        // This assigns the boolean value of 'true' if the index hasn't been duplicated in the list
+                        dupe = true;
+                    }
                 }
             }
 
