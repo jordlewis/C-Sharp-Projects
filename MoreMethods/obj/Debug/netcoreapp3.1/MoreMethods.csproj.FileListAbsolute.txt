@@ -11,3 +11,16 @@ E:\GitHub\C-Sharp-Projects\MoreMethods\MoreMethods\bin\Debug\netcoreapp3.1\MoreM
 E:\GitHub\C-Sharp-Projects\MoreMethods\MoreMethods\obj\Debug\netcoreapp3.1\MoreMethods.dll
 E:\GitHub\C-Sharp-Projects\MoreMethods\MoreMethods\obj\Debug\netcoreapp3.1\MoreMethods.pdb
 E:\GitHub\C-Sharp-Projects\MoreMethods\MoreMethods\obj\Debug\netcoreapp3.1\MoreMethods.genruntimeconfig.cache
+E:\GitHub\C-Sharp-Projects\MoreMethods\bin\Debug\netcoreapp3.1\MoreMethods.exe
+E:\GitHub\C-Sharp-Projects\MoreMethods\bin\Debug\netcoreapp3.1\MoreMethods.deps.json
+E:\GitHub\C-Sharp-Projects\MoreMethods\bin\Debug\netcoreapp3.1\MoreMethods.runtimeconfig.json
+E:\GitHub\C-Sharp-Projects\MoreMethods\bin\Debug\netcoreapp3.1\MoreMethods.runtimeconfig.dev.json
+E:\GitHub\C-Sharp-Projects\MoreMethods\bin\Debug\netcoreapp3.1\MoreMethods.dll
+E:\GitHub\C-Sharp-Projects\MoreMethods\bin\Debug\netcoreapp3.1\MoreMethods.pdb
+E:\GitHub\C-Sharp-Projects\MoreMethods\obj\Debug\netcoreapp3.1\MoreMethods.csproj.AssemblyReference.cache
+E:\GitHub\C-Sharp-Projects\MoreMethods\obj\Debug\netcoreapp3.1\MoreMethods.AssemblyInfoInputs.cache
+E:\GitHub\C-Sharp-Projects\MoreMethods\obj\Debug\netcoreapp3.1\MoreMethods.AssemblyInfo.cs
+E:\GitHub\C-Sharp-Projects\MoreMethods\obj\Debug\netcoreapp3.1\MoreMethods.csproj.CoreCompileInputs.cache
+E:\GitHub\C-Sharp-Projects\MoreMethods\obj\Debug\netcoreapp3.1\MoreMethods.dll
+E:\GitHub\C-Sharp-Projects\MoreMethods\obj\Debug\netcoreapp3.1\MoreMethods.pdb
+E:\GitHub\C-Sharp-Projects\MoreMethods\obj\Debug\netcoreapp3.1\MoreMethods.genruntimeconfig.cache

@@ -6,6 +6,8 @@ namespace MoreMethods
     {
         static void Main(string[] args)
         {
+            //----THIS IS 1ST SUBMISSION----
+
             // This instantiates the class 'aClass'
             ClassA aClass = new ClassA();
             // This asks the user to input the first number
@@ -29,6 +31,18 @@ namespace MoreMethods
             // If there is not a second number, the value will default to '0'
             int result = aClass.MethodA(number1, number2);
             Console.WriteLine(result);
+
+            //----THIS IS 2ND SUBMISSION----
+
+            ClassA bClass = new ClassA();
+
+            // Call Method 1 with two numbers entered
+            int number3 = 2;
+            int number4 = 69;
+            bClass.MethodB(number3, number4);
+
+            // Call Method 1 with parameters specified by name
+            bClass.MethodB(number3: number3, number4: number4);
 
             Console.ReadLine();
         }

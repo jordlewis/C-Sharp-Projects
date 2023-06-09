@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GitHub\\C-Sharp-Projects\\MoreMethods\\MoreMethods\\MoreMethods.csproj": {}
+    "E:\\GitHub\\C-Sharp-Projects\\MoreMethods\\MoreMethods.csproj": {}
   },
   "projects": {
-    "E:\\GitHub\\C-Sharp-Projects\\MoreMethods\\MoreMethods\\MoreMethods.csproj": {
+    "E:\\GitHub\\C-Sharp-Projects\\MoreMethods\\MoreMethods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitHub\\C-Sharp-Projects\\MoreMethods\\MoreMethods\\MoreMethods.csproj",
+        "projectUniqueName": "E:\\GitHub\\C-Sharp-Projects\\MoreMethods\\MoreMethods.csproj",
         "projectName": "MoreMethods",
-        "projectPath": "E:\\GitHub\\C-Sharp-Projects\\MoreMethods\\MoreMethods\\MoreMethods.csproj",
+        "projectPath": "E:\\GitHub\\C-Sharp-Projects\\MoreMethods\\MoreMethods.csproj",
         "packagesPath": "C:\\Users\\jordy\\.nuget\\packages\\",
-        "outputPath": "E:\\GitHub\\C-Sharp-Projects\\MoreMethods\\MoreMethods\\obj\\",
+        "outputPath": "E:\\GitHub\\C-Sharp-Projects\\MoreMethods\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

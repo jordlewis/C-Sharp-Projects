@@ -14,5 +14,14 @@ namespace MoreMethods
             int sum = number1 + mine;
             return sum;
         }
-     }   
+
+        // This creates a method that takes two integer arguments
+        public void MethodB(int number3, int number4)
+        {
+            // This mutliplies the variable 'number3' by 100
+            int result = number3 * 100;
+            // This displays the second variable, 'number4' to the screen
+            Console.WriteLine(number4);
+        }
+    }   
 }
