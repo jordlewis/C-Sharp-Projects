@@ -10,3 +10,4 @@ E:\GitHub\C-Sharp-Projects\MainMethodDemo\MainMethodDemo\obj\Debug\netcoreapp3.1
 E:\GitHub\C-Sharp-Projects\MainMethodDemo\MainMethodDemo\obj\Debug\netcoreapp3.1\MainMethodDemo.dll
 E:\GitHub\C-Sharp-Projects\MainMethodDemo\MainMethodDemo\obj\Debug\netcoreapp3.1\MainMethodDemo.pdb
 E:\GitHub\C-Sharp-Projects\MainMethodDemo\MainMethodDemo\obj\Debug\netcoreapp3.1\MainMethodDemo.genruntimeconfig.cache
+E:\GitHub\C-Sharp-Projects\MainMethodDemo\MainMethodDemo\obj\Debug\netcoreapp3.1\MainMethodDemo.csproj.AssemblyReference.cache
