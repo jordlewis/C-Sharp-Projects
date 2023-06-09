@@ -1,0 +1,13 @@
+E:\GitHub\C-Sharp-Projects\CallingMethods\CallingMethods\bin\Debug\netcoreapp3.1\CallingMethods.exe
+E:\GitHub\C-Sharp-Projects\CallingMethods\CallingMethods\bin\Debug\netcoreapp3.1\CallingMethods.deps.json
+E:\GitHub\C-Sharp-Projects\CallingMethods\CallingMethods\bin\Debug\netcoreapp3.1\CallingMethods.runtimeconfig.json
+E:\GitHub\C-Sharp-Projects\CallingMethods\CallingMethods\bin\Debug\netcoreapp3.1\CallingMethods.runtimeconfig.dev.json
+E:\GitHub\C-Sharp-Projects\CallingMethods\CallingMethods\bin\Debug\netcoreapp3.1\CallingMethods.dll
+E:\GitHub\C-Sharp-Projects\CallingMethods\CallingMethods\bin\Debug\netcoreapp3.1\CallingMethods.pdb
+E:\GitHub\C-Sharp-Projects\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.csproj.AssemblyReference.cache
+E:\GitHub\C-Sharp-Projects\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.AssemblyInfoInputs.cache
+E:\GitHub\C-Sharp-Projects\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.AssemblyInfo.cs
+E:\GitHub\C-Sharp-Projects\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.csproj.CoreCompileInputs.cache
+E:\GitHub\C-Sharp-Projects\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.dll
+E:\GitHub\C-Sharp-Projects\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.pdb
+E:\GitHub\C-Sharp-Projects\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.genruntimeconfig.cache
