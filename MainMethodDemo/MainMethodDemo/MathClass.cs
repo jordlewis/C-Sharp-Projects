@@ -6,6 +6,7 @@ namespace MainMethodDemo
 {
     public class MathClass
     {
+        // This is the first method, 'MyMath'
         public int MyMath(int numbaOne)
         {
             int remainder = 10 - numbaOne;
@@ -14,6 +15,7 @@ namespace MainMethodDemo
 
         public int MyMath(decimal numbaTwo)
         {
+            // This converts the decimal passed through to an integer
             int product = Convert.ToInt32(numbaTwo * 88);
             return product;
         }
