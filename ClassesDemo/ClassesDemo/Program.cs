@@ -22,9 +22,23 @@ namespace ClassesDemo
             // This prints the value of the variable 'output' to the console
             Console.WriteLine("{0} multiplied by five is {1}", usernumber, output);
 
-            // This calls the static class and method;
+            // This calls the static class and method without instanstiation 
             Stat.writeConsole();
 
+            // This instantiates the Employee object
+            Employee employee = new Employee()
+            {
+                // This sets the employee object FirstName as 'Sample'
+                FirstName = "Sample",
+                // This sets the employee object LastNAme as 'Student'
+                LastName = "Student",
+            };
+
+            // This calls the superclass method 'SayName()' on the employee object
+            // which prints the verbiage 'Full Name: Sample Student' to the console
+            employee.SayName();
+
+            Console.ReadLine();
         }
     }
 }
