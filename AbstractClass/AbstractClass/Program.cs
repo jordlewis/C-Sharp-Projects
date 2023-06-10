@@ -17,6 +17,9 @@ namespace AbstractClass
 
             // This calls the 'SayName' method on the employee object
             employee.SayName();
+
+            IQuittable quitting = new Employee();
+            quitting.Quit();
         }
     }
     
