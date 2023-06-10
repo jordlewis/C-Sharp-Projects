@@ -1,0 +1,13 @@
+E:\GitHub\C-Sharp-Projects\OverloadingOperators\OverloadingOperators\obj\Debug\netcoreapp3.1\OverloadingOperators.csproj.AssemblyReference.cache
+E:\GitHub\C-Sharp-Projects\OverloadingOperators\OverloadingOperators\obj\Debug\netcoreapp3.1\OverloadingOperators.AssemblyInfoInputs.cache
+E:\GitHub\C-Sharp-Projects\OverloadingOperators\OverloadingOperators\obj\Debug\netcoreapp3.1\OverloadingOperators.AssemblyInfo.cs
+E:\GitHub\C-Sharp-Projects\OverloadingOperators\OverloadingOperators\obj\Debug\netcoreapp3.1\OverloadingOperators.csproj.CoreCompileInputs.cache
+E:\GitHub\C-Sharp-Projects\OverloadingOperators\OverloadingOperators\bin\Debug\netcoreapp3.1\OverloadingOperators.exe
+E:\GitHub\C-Sharp-Projects\OverloadingOperators\OverloadingOperators\bin\Debug\netcoreapp3.1\OverloadingOperators.deps.json
+E:\GitHub\C-Sharp-Projects\OverloadingOperators\OverloadingOperators\bin\Debug\netcoreapp3.1\OverloadingOperators.runtimeconfig.json
+E:\GitHub\C-Sharp-Projects\OverloadingOperators\OverloadingOperators\bin\Debug\netcoreapp3.1\OverloadingOperators.runtimeconfig.dev.json
+E:\GitHub\C-Sharp-Projects\OverloadingOperators\OverloadingOperators\bin\Debug\netcoreapp3.1\OverloadingOperators.dll
+E:\GitHub\C-Sharp-Projects\OverloadingOperators\OverloadingOperators\bin\Debug\netcoreapp3.1\OverloadingOperators.pdb
+E:\GitHub\C-Sharp-Projects\OverloadingOperators\OverloadingOperators\obj\Debug\netcoreapp3.1\OverloadingOperators.dll
+E:\GitHub\C-Sharp-Projects\OverloadingOperators\OverloadingOperators\obj\Debug\netcoreapp3.1\OverloadingOperators.pdb
+E:\GitHub\C-Sharp-Projects\OverloadingOperators\OverloadingOperators\obj\Debug\netcoreapp3.1\OverloadingOperators.genruntimeconfig.cache

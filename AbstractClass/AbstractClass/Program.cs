@@ -18,6 +18,9 @@ namespace AbstractClass
             // This calls the 'SayName' method on the employee object
             employee.SayName();
 
+
+            // This instantiates an object of the interface with the Employee class
+            // And utilitizes polymophism to call the Quit() method on the quitting object created
             IQuittable quitting = new Employee();
             quitting.Quit();
         }
