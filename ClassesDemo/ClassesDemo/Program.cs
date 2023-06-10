@@ -25,6 +25,9 @@ namespace ClassesDemo
             // This calls the static class and method without instanstiation 
             Stat.writeConsole();
 
+
+
+            //---- INHERITANCE ----
             // This instantiates the Employee object
             Employee employee = new Employee()
             {
