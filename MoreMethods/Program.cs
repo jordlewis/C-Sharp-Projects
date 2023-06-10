@@ -25,23 +25,27 @@ namespace MoreMethods
             {
                 // If the user did input a second number, this converts it to an integer to be passed to the method
                 number2 = Convert.ToInt32(optNum);
+                int result = aClass.MethodA(number1, number2);
+                Console.WriteLine(result);
+            }
+            else
+            {
+                int result = aClass.MethodA(number1);
+                Console.WriteLine(result);
             }
 
-            // Calls the method and passes at least 1 number the user entered to the method, and an optional second number. 
-            // If there is not a second number, the value will default to '0'
-            int result = aClass.MethodA(number1, number2);
-            Console.WriteLine(result);
+
 
             //----THIS IS 2ND SUBMISSION----
 
-            ClassA bClass = new ClassA();
-
-            // Call Method 1 with two numbers entered
+            // This instantiates the class 'bClass'
+            ClassB bClass = new ClassB();
+            // This will call methodB and pass the 2 integer arguments to the method
             int number3 = 2;
             int number4 = 69;
             bClass.MethodB(number3, number4);
 
-            // Call Method 1 with parameters specified by name
+            // Call methodB with parameters specified by variable names
             bClass.MethodB(number3: number3, number4: number4);
 
             Console.ReadLine();

@@ -10,3 +10,4 @@ E:\GitHub\C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne
 E:\GitHub\C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.dll
 E:\GitHub\C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.pdb
 E:\GitHub\C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.genruntimeconfig.cache
+E:\GitHub\C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.csproj.AssemblyReference.cache
