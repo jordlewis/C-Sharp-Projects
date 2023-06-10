@@ -4,6 +4,7 @@ using System.Text;
 
 namespace ClassesDemo
 {
+    //---- INHERITANCE ----
     // This creates the public class 'Person'
     public class Person
     {
