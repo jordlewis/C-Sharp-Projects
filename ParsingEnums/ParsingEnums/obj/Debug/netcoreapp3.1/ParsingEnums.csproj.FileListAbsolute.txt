@@ -1,0 +1,13 @@
+E:\GitHub\C-Sharp-Projects\ParsingEnums\ParsingEnums\obj\Debug\netcoreapp3.1\ParsingEnums.AssemblyInfoInputs.cache
+E:\GitHub\C-Sharp-Projects\ParsingEnums\ParsingEnums\obj\Debug\netcoreapp3.1\ParsingEnums.AssemblyInfo.cs
+E:\GitHub\C-Sharp-Projects\ParsingEnums\ParsingEnums\obj\Debug\netcoreapp3.1\ParsingEnums.csproj.CoreCompileInputs.cache
+E:\GitHub\C-Sharp-Projects\ParsingEnums\ParsingEnums\bin\Debug\netcoreapp3.1\ParsingEnums.exe
+E:\GitHub\C-Sharp-Projects\ParsingEnums\ParsingEnums\bin\Debug\netcoreapp3.1\ParsingEnums.deps.json
+E:\GitHub\C-Sharp-Projects\ParsingEnums\ParsingEnums\bin\Debug\netcoreapp3.1\ParsingEnums.runtimeconfig.json
+E:\GitHub\C-Sharp-Projects\ParsingEnums\ParsingEnums\bin\Debug\netcoreapp3.1\ParsingEnums.runtimeconfig.dev.json
+E:\GitHub\C-Sharp-Projects\ParsingEnums\ParsingEnums\bin\Debug\netcoreapp3.1\ParsingEnums.dll
+E:\GitHub\C-Sharp-Projects\ParsingEnums\ParsingEnums\bin\Debug\netcoreapp3.1\ParsingEnums.pdb
+E:\GitHub\C-Sharp-Projects\ParsingEnums\ParsingEnums\obj\Debug\netcoreapp3.1\ParsingEnums.csproj.AssemblyReference.cache
+E:\GitHub\C-Sharp-Projects\ParsingEnums\ParsingEnums\obj\Debug\netcoreapp3.1\ParsingEnums.dll
+E:\GitHub\C-Sharp-Projects\ParsingEnums\ParsingEnums\obj\Debug\netcoreapp3.1\ParsingEnums.pdb
+E:\GitHub\C-Sharp-Projects\ParsingEnums\ParsingEnums\obj\Debug\netcoreapp3.1\ParsingEnums.genruntimeconfig.cache
