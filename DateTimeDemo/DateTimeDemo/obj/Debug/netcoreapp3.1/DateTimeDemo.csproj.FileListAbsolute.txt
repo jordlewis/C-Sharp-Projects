@@ -1,0 +1,13 @@
+E:\GitHub\C-Sharp-Projects\DateTimeDemo\DateTimeDemo\bin\Debug\netcoreapp3.1\DateTimeDemo.exe
+E:\GitHub\C-Sharp-Projects\DateTimeDemo\DateTimeDemo\bin\Debug\netcoreapp3.1\DateTimeDemo.deps.json
+E:\GitHub\C-Sharp-Projects\DateTimeDemo\DateTimeDemo\bin\Debug\netcoreapp3.1\DateTimeDemo.runtimeconfig.json
+E:\GitHub\C-Sharp-Projects\DateTimeDemo\DateTimeDemo\bin\Debug\netcoreapp3.1\DateTimeDemo.runtimeconfig.dev.json
+E:\GitHub\C-Sharp-Projects\DateTimeDemo\DateTimeDemo\bin\Debug\netcoreapp3.1\DateTimeDemo.dll
+E:\GitHub\C-Sharp-Projects\DateTimeDemo\DateTimeDemo\bin\Debug\netcoreapp3.1\DateTimeDemo.pdb
+E:\GitHub\C-Sharp-Projects\DateTimeDemo\DateTimeDemo\obj\Debug\netcoreapp3.1\DateTimeDemo.csproj.AssemblyReference.cache
+E:\GitHub\C-Sharp-Projects\DateTimeDemo\DateTimeDemo\obj\Debug\netcoreapp3.1\DateTimeDemo.AssemblyInfoInputs.cache
+E:\GitHub\C-Sharp-Projects\DateTimeDemo\DateTimeDemo\obj\Debug\netcoreapp3.1\DateTimeDemo.AssemblyInfo.cs
+E:\GitHub\C-Sharp-Projects\DateTimeDemo\DateTimeDemo\obj\Debug\netcoreapp3.1\DateTimeDemo.csproj.CoreCompileInputs.cache
+E:\GitHub\C-Sharp-Projects\DateTimeDemo\DateTimeDemo\obj\Debug\netcoreapp3.1\DateTimeDemo.dll
+E:\GitHub\C-Sharp-Projects\DateTimeDemo\DateTimeDemo\obj\Debug\netcoreapp3.1\DateTimeDemo.pdb
+E:\GitHub\C-Sharp-Projects\DateTimeDemo\DateTimeDemo\obj\Debug\netcoreapp3.1\DateTimeDemo.genruntimeconfig.cache
